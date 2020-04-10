@@ -1,6 +1,7 @@
 # github.com/gin-contrib/sessions v0.0.3
 ## explicit
 github.com/gin-contrib/sessions
+github.com/gin-contrib/sessions/cookie
 # github.com/gin-contrib/sse v0.1.0
 github.com/gin-contrib/sse
 # github.com/gin-gonic/gin v1.6.2

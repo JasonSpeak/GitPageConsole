@@ -10,6 +10,5 @@ require (
 	github.com/robfig/cron v1.2.0
 	golang.org/x/crypto v0.0.0-20200406173513-056763e48d71
 	gopkg.in/go-playground/validator.v8 v8.18.2
-	github.com/robfig/cron v1.2.0
 	gopkg.in/yaml.v2 v2.2.8
 )
